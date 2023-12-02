@@ -12,7 +12,7 @@
 - 📫 How to reach me **ismailali082786@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Ismail-webdev**
 - ⚡ Fun fact **I'm funny..**
-- 
+
 <div align="center"> 
   <a href="mailto:Ismailali.webdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
