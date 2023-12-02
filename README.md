@@ -21,12 +21,20 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ismail-webdev/Ismail-webdev/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
  <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/IsmailAli082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rohan-rccodes" height="30" width="40" /></a>  
-<a href="https://github.com/Ismail-webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rohan-rccodes" height="30" width="40" /></a>
+<a href="https://twitter.com/IsmailAli082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ismail-webdev" height="30" width="40" /></a>  
+<a href="https://github.com/Ismail-webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ismail-webdev" height="30" width="40" /></a>
 </p>
 
 
