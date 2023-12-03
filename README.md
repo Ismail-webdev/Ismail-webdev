@@ -16,8 +16,8 @@
 - 🎯 Focusing on **Improve Skills**
 - 🚀 On a mission to craft seamless digital experiences. 💻
 
-🌐 Always Learning:
-I believe in the power of continuous learning and stay on the cutting edge of emerging technologies. Adapting to the ever-evolving digital landscape is my second nature.
+🌐 **Always Learning:**
+<p class="justify">I believe in the power of continuous learning and stay on the cutting edge of emerging technologies. Adapting to the ever-evolving digital landscape is my second nature.</p>
 
 
 <div align="center"> 
