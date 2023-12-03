@@ -12,6 +12,7 @@
 - 📫 How to reach me **ismailali082786@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Ismail-webdev**
 - ⚡ Fun fact **Traveler, Anime Lover**
+- 🎯 Focusing on **Improve Skills**
 
 <div align="center"> 
   <a href="mailto:Ismailali.webdev@gmail.com">
