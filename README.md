@@ -10,10 +10,15 @@
 
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Html & CSS**
-- 📫 How to reach me **ismailali082786@gmail.com**
+- 📫 How to reach me **ismailali.webdev@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Ismail-webdev**
 - ⚡ Fun fact **Traveler, Anime Lover**
 - 🎯 Focusing on **Improve Skills**
+- 🚀 On a mission to craft seamless digital experiences. 💻
+
+🌐 Always Learning:
+I believe in the power of continuous learning and stay on the cutting edge of emerging technologies. Adapting to the ever-evolving digital landscape is my second nature.
+
 
 <div align="center"> 
   <a href="mailto:Ismailali.webdev@gmail.com">
