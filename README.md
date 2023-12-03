@@ -11,7 +11,7 @@
 - 💬 Ask me about **Html & CSS**
 - 📫 How to reach me **ismailali082786@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Ismail-webdev**
-- ⚡ Fun fact **Traveler**
+- ⚡ Fun fact **Traveler, Anime Lover**
 
 <div align="center"> 
   <a href="mailto:Ismailali.webdev@gmail.com">
