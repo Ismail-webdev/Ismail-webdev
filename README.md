@@ -1,8 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ismail-webdev.Ismail-webdev" />
-![logo](https://github.com/Ismail-webdev/Ismail-webdev/blob/main/banner.png)
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Ismail+Ali!;" />
-</h1>
+# Hi, I'm Ismail Ali👋🏾 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ismail-webdev.Ismail-webdev" />
+<img src="https://github.com/Ismail-webdev/Ismail-webdev/blob/main/banner.png" alt="Ismail Banner" />
 <h3 align="center">I'm Frontend Developer</h3>
 
 <img align="right" alt="coding-gif" width="400" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
