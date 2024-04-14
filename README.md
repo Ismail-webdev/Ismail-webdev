@@ -1,5 +1,5 @@
 # Hi, I'm Ismail Ali👋🏾 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ismail-webdev.Ismail-webdev" />
-<img src="https://github.com/Ismail-webdev/Ismail-webdev/blob/main/banner.png" alt="Ismail Banner" />
+<img src="https://github.com/Ismail-webdev/Ismail-webdev/blob/main/banner.jpeg" alt="Ismail Banner" />
 <h3 align="center">I'm Frontend Developer</h3>
 
 <img align="right" alt="coding-gif" width="400" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
