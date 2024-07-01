@@ -2,8 +2,7 @@
 <img src="https://github.com/Ismail-webdev/Ismail-webdev/blob/main/banner.jpeg" alt="Ismail Banner" />
 <h3 align="center">I'm Frontend Developer</h3>
 
-<img align="right" alt="coding-gif" width="400" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
-
+<img align="right" alt="coding-gif" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Html & CSS**
