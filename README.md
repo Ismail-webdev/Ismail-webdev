@@ -48,13 +48,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismail-webdev&show_icons=true&locale=en&layout=compact" alt="ismail-webdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismail-webdev&show_icons=true&locale=en" alt="ismail-webdev" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-webdev&" alt="ismail-webdev" /></p>
 
 ## ✍️ Random Dev Quote
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&author=Seneca&quote=If%20a%20man%20knows%20not%20to%20which%20port%20he%20sails%2C%20no%20wind%20is%20favorable%2E)](https://github.com/cheehwatang/github-readme-daily-quotes)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-webdev&" alt="ismail-webdev" /></p>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
--->
 
