@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding-gif" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Php**
 - 💬 Ask me about **Html & CSS**
 - 📫 How to reach me **ismailali.webdev@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Ismail-webdev**
