@@ -39,7 +39,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=wordpress,js,html,css,bootstrap,git,github" alt="skills" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=wordpress,js,html,css,bootstrap,git,github" alt="skills"/>
 </p>
 
 <hr/>
