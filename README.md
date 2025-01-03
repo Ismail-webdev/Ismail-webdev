@@ -51,5 +51,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-webdev&" alt="ismail-webdev" /></p>
 
 ## ✍️ Random Dev Quote
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&author=Seneca&quote=If%20a%20man%20knows%20not%20to%20which%20port%20he%20sails%2C%20no%20wind%20is%20favorable%2E)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&motivation)
