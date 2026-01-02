@@ -39,6 +39,10 @@ I am actively preparing for frontend roles in Europe, with a strong focus on mod
 - Focus on long-term maintainability, not quick fixes
 
 ---
+## ✍️ Random Dev Quote
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&author=Seneca&quote=If%20a%20man%20knows%20not%20to%20which%20port%20he%20sails%2C%20no%20wind%20is%20favorable%2E)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+---
 
 ## 🚧 Currently Building
 
