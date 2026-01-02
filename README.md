@@ -1,57 +1,94 @@
-# Hi, I'm Ismail Ali👋🏾 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ismail-webdev.Ismail-webdev" />
-<img src="https://github.com/Ismail-webdev/Ismail-webdev/blob/main/banner.jpeg" alt="Ismail Banner" />
-<h3 align="center">I'm Frontend Developer</h3>
+# Hi, I'm Ismail Ali  
+Frontend Developer | React.js | UI-Focused Engineer  
 
-<img align="right" alt="coding-gif" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+I’m a Frontend Developer with 1+ year of full-time professional experience building responsive, user-focused web interfaces.  
+I specialize in translating UI/UX designs into clean, scalable, and accessible frontend code.
 
-- 🌱 I’m currently learning **Php**
-- 💬 Ask me about **Html & CSS**
-- 📫 How to reach me **ismailali.webdev@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/Ismail-webdev**
-- ⚡ Fun fact **Traveler, Anime Lover**
-- 🎯 Focusing on **Improve Skills**
-- 🚀 On a mission to craft seamless digital experiences. 💻
+I am actively preparing for frontend roles in Europe, with a strong focus on modern JavaScript, React, and production-quality projects.
 
-🌐 **Always Learning:**
-<p class="justify">I believe in the power of continuous learning and stay on the cutting edge of emerging technologies. Adapting to the ever-evolving digital landscape is my second nature.</p>
+---
 
+## 🧰 Languages & Tools
 
-<div align="center"> 
-  <a href="mailto:Ismailali.webdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/ismailali082/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<a href="https://twitter.com/IsmailAli082" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-</div>
-
- <hr/>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/IsmailAli082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ismail-webdev" height="30" width="40" /></a>  
-<a href="https://github.com/Ismail-webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ismail-webdev" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,wordpress,figma,vscode" />
 </p>
 
+---
 
+## 🧠 Frontend Principles I Follow
 
-<h3 align="left">Languages and Tools:</h3>
+- Write readable, maintainable, and reusable components
+- Prefer mobile-first, responsive layouts
+- Keep UI consistent and accessible
+- Optimize for performance and user experience
+- Follow modern React best practices and patterns
+
+---
+
+## 🛠️ How I Work
+
+- Break UI into reusable components
+- Convert Figma designs into pixel-accurate layouts
+- Test layouts across devices using DevTools
+- Refactor code for clarity and scalability
+- Focus on long-term maintainability, not quick fixes
+
+---
+
+## 🚧 Currently Building
+
+- **Job Application Tracker** – to manage job applications, statuses, and notes  
+- **Personal Portfolio Website** – to showcase projects and experience professionally  
+- **React Mini Projects** – to strengthen fundamentals and patterns  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Job Application Tracker
+A productivity-focused web app to track job applications with status management, filters, and notes.  
+**Tech:** React, Tailwind CSS  
+🔗 Live: Coming Soon  
+🔗 Repo: Coming Soon  
+
+### 🔹 Portfolio Website
+Personal portfolio showcasing projects, skills, and experience with a clean UI and smooth animations.  
+**Tech:** React, Tailwind CSS, GSAP  
+🔗 Live: Coming Soon  
+🔗 Repo: Coming Soon  
+
+---
+
+## 💼 Experience
+
+**Junior Web Designer (Full-Time)**  
+Appiesoft Web Solutions Pvt Ltd  
+Oct 2024 – Present
+
+- Built and maintained responsive, production-ready websites
+- Fixed cross-device UI issues using Chrome DevTools
+- Developed and customized WordPress websites using Elementor
+- Collaborated with designers to implement UI/UX accurately
+- Improved performance, responsiveness, and layout consistency
+
+---
+
+## 🎯 Career Direction
+
+- Move into a Frontend Engineer role
+- Work in a high-quality engineering team in Europe
+- Build scalable frontend systems with strong UX foundations
+
+---
+
+## 📫 Connect With Me
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=wordpress,js,html,css,bootstrap,git,github,php,react" alt="skills"/>
+  <a href="https://linkedin.com/in/ismailali082">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:ismailali.webdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" />
+  </a>
 </p>
-
-<hr/>
-
-
- <p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=ismail-webdev&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api?username=ismail-webdev&show_icons=true&theme=radical)" alt="ismail-webdev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismail-webdev&show_icons=true&locale=en" alt="ismail-webdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-webdev&" alt="ismail-webdev" /></p> 
-
-
-## ✍️ Random Dev Quote
-
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&motivation)
