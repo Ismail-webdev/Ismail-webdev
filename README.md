@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
+</p>
+
 # Hi, I'm Ismail Ali  
 Frontend Developer | React.js | UI-Focused Engineer  
 
@@ -38,9 +42,9 @@ I am actively preparing for frontend roles in Europe, with a strong focus on mod
 
 ## 🚧 Currently Building
 
-- **Job Application Tracker** – to manage job applications, statuses, and notes  
-- **Personal Portfolio Website** – to showcase projects and experience professionally  
-- **React Mini Projects** – to strengthen fundamentals and patterns  
+- **Job Application Tracker** – managing applications, statuses, and notes  
+- **Personal Portfolio Website** – professional showcase of projects  
+- **React Mini Projects** – strengthening fundamentals and patterns  
 
 ---
 
@@ -49,14 +53,10 @@ I am actively preparing for frontend roles in Europe, with a strong focus on mod
 ### 🔹 Job Application Tracker
 A productivity-focused web app to track job applications with status management, filters, and notes.  
 **Tech:** React, Tailwind CSS  
-🔗 Live: Coming Soon  
-🔗 Repo: Coming Soon  
 
 ### 🔹 Portfolio Website
-Personal portfolio showcasing projects, skills, and experience with a clean UI and smooth animations.  
+A modern portfolio with clean UI and smooth animations.  
 **Tech:** React, Tailwind CSS, GSAP  
-🔗 Live: Coming Soon  
-🔗 Repo: Coming Soon  
 
 ---
 
@@ -76,7 +76,7 @@ Oct 2024 – Present
 
 ## 🎯 Career Direction
 
-- Move into a Frontend Engineer role
+- Transition into a Frontend Engineer role
 - Work in a high-quality engineering team in Europe
 - Build scalable frontend systems with strong UX foundations
 
