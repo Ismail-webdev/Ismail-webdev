@@ -22,25 +22,21 @@ I am actively preparing for frontend roles in Europe, with a strong focus on mod
 
 ## 🧠 Frontend Principles I Follow
 
-- Write readable, maintainable, and reusable components
-- Prefer mobile-first, responsive layouts
-- Keep UI consistent and accessible
-- Optimize for performance and user experience
-- Follow modern React best practices and patterns
+- Write readable, maintainable, and reusable components  
+- Prefer mobile-first, responsive layouts  
+- Keep UI consistent and accessible  
+- Optimize for performance and user experience  
+- Follow modern React best practices and patterns  
 
 ---
 
 ## 🛠️ How I Work
 
-- Break UI into reusable components
-- Convert Figma designs into pixel-accurate layouts
-- Test layouts across devices using DevTools
-- Refactor code for clarity and scalability
-- Focus on long-term maintainability, not quick fixes
-
----
-## ✍️ Random Dev Quote
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&author=Seneca&quote=If%20a%20man%20knows%20not%20to%20which%20port%20he%20sails%2C%20no%20wind%20is%20favorable%2E)](https://github.com/cheehwatang/github-readme-daily-quotes)
+- Break UI into reusable components  
+- Convert Figma designs into pixel-accurate layouts  
+- Test layouts across devices using Chrome DevTools  
+- Refactor code for clarity and scalability  
+- Focus on long-term maintainability, not quick fixes  
 
 ---
 
@@ -68,21 +64,27 @@ A modern portfolio with clean UI and smooth animations.
 
 **Junior Web Designer (Full-Time)**  
 Appiesoft Web Solutions Pvt Ltd  
-Oct 2024 – Present
+Oct 2024 – Present  
 
-- Built and maintained responsive, production-ready websites
-- Fixed cross-device UI issues using Chrome DevTools
-- Developed and customized WordPress websites using Elementor
-- Collaborated with designers to implement UI/UX accurately
-- Improved performance, responsiveness, and layout consistency
+- Built and maintained responsive, production-ready websites  
+- Fixed cross-device UI issues using Chrome DevTools  
+- Developed and customized WordPress websites using Elementor  
+- Collaborated closely with designers to implement UI/UX accurately  
+- Improved performance, responsiveness, and layout consistency  
 
 ---
 
 ## 🎯 Career Direction
 
-- Transition into a Frontend Engineer role
-- Work in a high-quality engineering team in Europe
-- Build scalable frontend systems with strong UX foundations
+- Transition into a Frontend Engineer role  
+- Work in a high-quality engineering team in Europe  
+- Build scalable frontend systems with strong UX foundations  
+
+---
+
+## ✍️ Thought I Like
+
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&author=Seneca&quote=If%20a%20man%20knows%20not%20to%20which%20port%20he%20sails%2C%20no%20wind%20is%20favorable%2E)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
 ---
 
